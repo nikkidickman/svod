@@ -42,6 +42,11 @@
             "Extension"
           ],
           "_name": "extHeader4",
+          "_styles": {
+            "H2": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "extHeader4-3",
           "_params": {
             "formBorder": false,
@@ -120,12 +125,7 @@
             }
           },
           "title3": "MOBILE-READY",
-          "text2": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.",
-          "_styles": {
-            "H2": {
-              "text-align": "right"
-            }
-          }
+          "text2": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque."
         }
       ]
     },
@@ -227,18 +227,18 @@
             "Theme"
           ],
           "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
           "_anchor": "buttons1-c",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Dashboard</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Trials</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Subscribers</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Cancellers</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Retention</a>",
-          "_styles": {
-            ".btn": {
-              "font-size": "11px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Dashboard</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Trials</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Subscribers</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Cancellers</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Retention</a>"
         },
         {
           "_inherit": "msg-box8",
@@ -259,7 +259,7 @@
           "_anchor": "msg-box3-i",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -446,7 +446,7 @@
           "_anchor": "msg-box3-n",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -653,7 +653,7 @@
           "_anchor": "msg-box3-k",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
